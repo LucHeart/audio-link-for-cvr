@@ -4047,7 +4047,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2156452872930336984}
   m_Layer: 0
-  m_Name: AudioLinkAIO
+  m_Name: AudioLink_+Controller
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
