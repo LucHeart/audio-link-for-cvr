@@ -1,4 +1,4 @@
-Copyright 2021 llealloo, cnlohr, lox9973
+Copyright 2022 Luc (aka. LucHeart, zLucPlayZ, Luca Perugia)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software 
 and associated documentation files (the "Software"), to deal in the Software without restriction, 
@@ -18,3 +18,4 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 You may freely use this code in any CC 3.0 licensed projects.
 
 "Sludge Bath" provided by Lamp DX under Creative Commons: BY-NC-ND 4.0
+"Audio Link" provided by llealloo, cnlohr, lox9973 under Creative Commons: 3.0
