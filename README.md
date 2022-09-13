@@ -10,6 +10,12 @@ To get the latest unity package, head to releases and download the latest releas
 4. Position the **ControlBox** somewhere in your world
 5. Upload!
 
+## TODO
+- More Testing
+- Include updated example scene
+- Provide more controller designs
+- Color picker for theme colors
+
 ## Issues & Bugs
 For issues or bugs with my port, you can either create a issue on github or reach out to me on discord.
 
